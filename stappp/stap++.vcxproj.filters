@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\cpp\Bar.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\cpp\Clock.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\cpp\Domain.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\cpp\ElementGroup.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\cpp\LoadCaseData.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\cpp\Material.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\cpp\Node.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\cpp\Outputter.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\cpp\Solver.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\cpp\main.cpp">
+      <Filter>SOURCE FILES</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\h\Bar.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\h\Clock.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\h\Domain.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\h\Element.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\h\ElementGroup.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\h\LoadCaseData.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\h\Material.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\h\Node.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\h\Outputter.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\h\SkylineMatrix.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\h\Solver.h">
+      <Filter>HEADER FILES</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\学习资料\大三下\有限元\stappp-master\stappp-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="HEADER FILES">
+      <UniqueIdentifier>{75BDA63F-949A-38E4-87F9-EA1641CB8342}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SOURCE FILES">
+      <UniqueIdentifier>{8CBFC39B-26CE-3AF4-AD1E-EFD5BB00E2B8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
